@@ -19,8 +19,10 @@ Sou um desenvolvedor de software especializado em **Backend**, com foco no ecoss
 ### 📈 As Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusMarquesPadua&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusMarquesPadua&layout=compact&theme=tokyonight&cache_seconds=86400&v=1" width="48%" />
+  <a href="https://github.com/matheusMarquesPadua">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusMarquesPadua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusMarquesPadua&layout=compact&theme=tokyonight"/>
+  </a>
 </div>
 
 ---
