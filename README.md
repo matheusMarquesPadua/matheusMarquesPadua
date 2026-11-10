@@ -60,7 +60,7 @@ Sou um desenvolvedor de software especializado em **Backend**, com foco no ecoss
 
 ### 🚀 Projetos em Destaque
 
-- 📌 **[Tasks-Backend](https://github.com/matheusMarquesPadua)** — API RESTful desenvolvida em **.NET 10** com **Clean Architecture** e **CQRS**. Implementa autenticação com ASP.NET Core Identity, validações desacopladas no pipeline do MediatR com FluentValidation, persistência no PostgreSQL via EF Core e documentação interativa com Scalar.
+- 📌 **[Tasks-Backend](https://github.com/matheusMarquesPadua/Tasks-Backend)** — API RESTful desenvolvida em **.NET 10** com **Clean Architecture** e **CQRS**. Implementa autenticação com ASP.NET Core Identity, validações desacopladas no pipeline do MediatR com FluentValidation, persistência no PostgreSQL via EF Core e documentação interativa com Scalar.
 - 📌 **Projetos UniCV (*Nossa Feirinha* & *Radar do Conhecimento*)** — Soluções web e mobile voltadas para a comunidade e educação, integrando prototipação no Figma e desenvolvimento full-stack.
 
 ---
