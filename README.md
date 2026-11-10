@@ -72,10 +72,21 @@ Sou um desenvolvedor de software especializado em **Backend**, com foco no ecoss
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusMarquesPadua&theme=tokyonight&exclude=php,python" />
 </div>
 
+---
+### 📈 Minhas Estatísticas
+
 <div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusMarquesPadua&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=matheusMarquesPadua&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusMarquesPadua&theme=tokyonight&exclude=php,python" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusMarquesPadua/matheusMarquesPadua/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusMarquesPadua/matheusMarquesPadua/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/matheusMarquesPadua/matheusMarquesPadua/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 ---
 
 <div align="center">
