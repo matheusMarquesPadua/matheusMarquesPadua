@@ -72,14 +72,6 @@ Sou um desenvolvedor de software especializado em **Backend**, com foco no ecoss
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusMarquesPadua&theme=tokyonight&exclude=php,python" />
 </div>
 
----
-### 📈 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=matheusMarquesPadua&theme=tokyonight&hide_border=true&locale=pt_BR" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusMarquesPadua&theme=tokyonight&exclude=php,python" />
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusMarquesPadua/matheusMarquesPadua/output/github-snake-dark.svg" />
